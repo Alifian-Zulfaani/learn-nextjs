@@ -8,7 +8,7 @@ export default function Home() {
         <div className="bg-white border-2 border-purple-100 rounded-lg p-6 grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="flex flex-col justify-center">
             <h1 className={`text-4xl font-bold mb-4 ${styles.text_greenSea}`}>
-              Welcome
+              Welcome to my blog!
             </h1>
             <p className="text-lg text-gray-700 mb-4">
               Massa urna magnis dignissim id euismod porttitor vitae etiam
